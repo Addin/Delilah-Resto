@@ -50,7 +50,7 @@ and let the magic begin!
 
 # Want to contribute?
 
-Open a [Issue](https://github.com/Addin/Delilah-Resto/issues) or help me with a [pull requests](https://github.com/Addin/Delilah-Resto/pulls) 
+Open a [Issue](https://github.com/Addin/Delilah-Resto/issues) or help me with a [pull request](https://github.com/Addin/Delilah-Resto/pulls) 
 
 # TODOS
 
