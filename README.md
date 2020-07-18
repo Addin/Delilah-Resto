@@ -13,7 +13,7 @@
 * [Nodemon](https://nodemon.io/)
 * [Postman](https://www.postman.com/)
 
-# I want to knwo more about this API!
+# I want to know more about this API!
 
 Sure, take a look over here to my [Swaggerhub.](https://app.swaggerhub.com/apis/Addin/Delilah-resto/1.0.0)
 
